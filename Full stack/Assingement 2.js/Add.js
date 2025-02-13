@@ -1,3 +1,4 @@
+// Write a node js program to take user input,addtwo numbers & display the result :
 const r = require('readline');
 const i = r.createInterface({
    input:process.stdin,

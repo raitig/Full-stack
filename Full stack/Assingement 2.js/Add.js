@@ -9,4 +9,3 @@ i.question("Enter the first number :",(a)=>{
         i.close();
     });
 });
-0

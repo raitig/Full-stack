@@ -458,7 +458,9 @@ handleChoise()
 
 
 //assignment 15: 
-//
+// Serve different HTML files at differnet routs and perform a claculation (e.g. add two numbers from a user form)
+// Implementing routing with dynamic parameters in the URL.
+// Use application-level middle ware for task logging or hjandaling error.
 const e = require("express")
 const {join} = require("path")
 
